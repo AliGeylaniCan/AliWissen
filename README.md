@@ -1,2 +1,3 @@
 # AliWissen
- Dersteki çalışmalarım için 
+ Dersteki çalışmalarım için.
+ Bu satırı github.com üzerinde yazıyorum.
