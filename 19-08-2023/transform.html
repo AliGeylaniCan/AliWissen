@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div{
+            width: 150px;
+            height: 60px;
+            background-color: aquamarine;
+            margin: 10px;
+            color: black;
+            transition: transform 1s;
+        }
+        #translateX:hover{
+            transform: translateX(50px);
+            
+        }
+        #translateY{
+            margin-bottom: 100px;
+        }
+        #translateY:hover{
+            transform: translateY(50px);
+            
+        }
+        #translate:hover{
+            transform: translate(50px, 50px);
+        }
+
+    </style>
+</head>
+<body>
+    <div id="translateX">x exeninde 50px sağa kaydır</div>
+    <div id="translateY">y ekseninde 50px aşağı kaydır </div>
+    <div id="translate"> x ekseninde 50px sağa y ekseninde ise 50px aşagı kaydır </div>
+</body>
+</html>

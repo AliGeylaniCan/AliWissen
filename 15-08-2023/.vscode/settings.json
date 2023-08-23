@@ -1,0 +1,23 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "[!0]*/**": true,
+        "0[!5]*/**": true,
+        "05[!_]*/**": true,
+        "05_[!B]*/**": true,
+        "05_B[!r]*/**": true,
+        "05_Br[!i]*/**": true,
+        "05_Bri[!g]*/**": true,
+        "05_Brig[!h]*/**": true,
+        "05_Brigh[!t]*/**": true,
+        "05_Bright[!B]*/**": true,
+        "05_BrightB[!l]*/**": true,
+        "05_BrightBl[!o]*/**": true,
+        "05_BrightBlo[!g]*/**": true
+    }
+}
